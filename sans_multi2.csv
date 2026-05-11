@@ -51,10 +51,7 @@
 0,GasterBlaster,0,0,480,320,240,315,0.5,0.3
 0,GasterBlaster,0,160,0,320,240,60,0.5,0.3
 0,GasterBlaster,0,480,480,320,240,240,0.5,0.3
-10,blackscreen,0,,,,,
-0,sound,PlayerFight,,,,
-0.2,SansText,nah bruh touch you first,,,,,,
-0.2,BoneHRepeat,130,-10,200,1,300,4,183
+5.2,BoneHRepeat,130,-10,200,1,300,4,183
 0,BoneHRepeat,330,650,200,3,300,4,183
 4.3,SineBones,80,-24,400,25,,,,
 0,SineBones,80,24,400,25,,,,
@@ -65,11 +62,11 @@
 0.2,BoneStab,3,43,0.3,999,,,
 0.1,SansBody,HandDown,,,,,,,
 0,sansslam,1,,,,,,,
-0.2,BoneStab,1,43,0.4,999,,,,
+0.2,BoneStab,1,43,0.4,0.6,,,,
 0.1,HeartMode,1,,,,,,,
 0.2,SansText,one thing is certain though.,,,,,,
 0,SansText,you cannot no-hit this.,,,,,,,
-10,BlackScreen,0,,,,,,
+5,BlackScreen,0,,,,,,
 0,Sound,Flash,,
 0,Sound,PlayerFight,,
 0,SansSlam,4,,
