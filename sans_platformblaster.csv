@@ -31,5 +31,13 @@
 ;
 1.2,GasterBlaster,0.7,640,286,560,276,180,0.7,0.1;
 0.2,GasterBlaster,0.7,640,286,560,276,180,0.7,0.1;
-0,Sound,Ding,,;
-5,EndAttack,,,;
+0,Sound,Ding,,
+0.414,SansSlam,2,,,,,,,
+0,GasterBlaster,1,100,0,166,150,90,0.414,0.207
+0.414,SansSlam,3,,,,,,,
+0,GasterBlaster,1,600,60,520,270,180,0.414,0.207
+0.828,HeartMode,4,,,,,,,
+0,GasterBlaster,1,200,0,166,150,90,2.07,0.207
+0.414,GasterBlaster,1,200,0,436,150,90,2.07,0.207
+0.414,GasterBlaster,1,200,0,326,150,90,2.07,0.207
+5,EndAttack,,,
