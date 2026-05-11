@@ -38,9 +38,9 @@
 0,DamagePlayer,5,1,,,
 0,SansText,hehe.,,,
 0,SansText,i used hacks to damage you,,
-0,DamagePlayer,-7,1,,,
+0,DamagePlayer,-70,1,,,
 0,SansText,who healed you?,,,,,,
-1.5,bonestab,1,145,0.5,2
+1.5,bonestab,1,140,0.5,2
 2,SansHead,BlueEye
 2,SansText,you bum.,,,,,
 0,DamagePlayer,-10,1,,,
