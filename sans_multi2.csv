@@ -51,7 +51,7 @@
 0,GasterBlaster,0,0,480,320,240,315,0.5,0.3
 0,GasterBlaster,0,160,0,320,240,60,0.5,0.3
 0,GasterBlaster,0,480,480,320,240,240,0.5,0.3
-0,blackscreen,1,,,,,
+10,blackscreen,0,,,,,
 0,sound,PlayerFight,,,,
 0.2,SansText,nah bruh touch you first,,,,,,
 0.2,BoneHRepeat,130,-10,200,1,300,4,183
