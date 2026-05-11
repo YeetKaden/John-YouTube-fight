@@ -35,9 +35,12 @@
 0,SansText,heh.,,,,,
 0,SansHead,ClosedEyes
 3,SansHead,Default
-0,DamagePlayer,-70,1,,,
+0,DamagePlayer,5,1,,,
+0,SansText,hehe.,,,
+0,SansText,i used hacks to damage you,,
+0,DamagePlayer,-7,1,,,
 0,SansText,who healed you?,,,,,,
-0.5,bonestab,1,150,0.5,2
+1.5,bonestab,1,145,0.5,2
 2,SansHead,BlueEye
 2,SansText,you bum.,,,,,
 0,DamagePlayer,-10,1,,,
@@ -59,7 +62,8 @@
 0,SansHead,Default
 20,SansHead,LookLeft
 0,SansText,phase 2 is cancelled.        you nut!,,
-0,SansText,why are you still         here eh?,,
+0,SansText,why are you still here eh?,,
+0,DamagePlayer,-21,1,,,
 0,SansHead,Default
 2,SansText,you really want to         see my basketball        attack?,,
 0,combatzoneresize,133,251,508,391,TLResume
@@ -104,6 +108,7 @@
 0,SansText,you goddamn racist.,,,
 2.5,SansText,i mean,,
 0,SansText,im racist too...,,
+0,DamagePlayer,-31,1,,,
 20,SansText,i get it now,,
 0,SansText,you keep waiting until i     say something,,
 0,SansText,like kids meal with extra       kids!,,
@@ -124,7 +129,10 @@
 0,SansText,here's your phase 2!,,,
 0,SansText,also just in case you have         low HP...,,,,,,,
 0.2,SansBody,shrug,,,,,
-0,SansText,i advise you to leave if          have less than 14HP,,,,,,
+0,SansText,i advise you to leave if          have less than 15HP,,,,,,
 0.3,DamagePlayer,14,1,,,,,,
 0,sound,HeartSplit,,,,,,
+0.2,gasterblaster,1,250,0,250,200,90,0.2,0.9
+0.2,gasterblaster,1,410,0,410,200,90,0.2,0.5
+0,SansText,kaboom,,,,,,
 0.2,EndAttack,,,,,
