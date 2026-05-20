@@ -17,10 +17,6 @@
 0,GasterBlaster,1,0,0,259,166,90,0.3,0.1
 0,GasterBlaster,1,0,0,449,366,180,0.3,0.1
 0,GasterBlaster,1,0,0,379,446,270,0.3,0.1
-0,CombatZoneResizeInstant,241,226,449,391,,,,
-0,CombatZoneSpeed,900,,,,,,,
-0,CombatZoneResize,241,226,650,391,,,,
-0.33333,HeartMaxFallSpeed,-300,,,,,,,
 0,SansAnimation,Idle,,,,,,,
 0.1,Sound,Ding,,,,,,,
 0.1,Sound,Ding,,,,,,,
