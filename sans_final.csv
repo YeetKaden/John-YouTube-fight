@@ -4,7 +4,11 @@
 0,TLPause,,,,,,,,
 0,SansSweat,0,,,,,,,
 0,SansText,Hey kid,,,,,,,
-0,SansText,Just know that I didnt          want to do this,,,,,,,
+0,SansText,guess what time it is,,,,,,,
+0,SansText,DISCO TIME!,,,,,,
+0,SansText,so like im an unfair        person/opponent/evils,,,,,,,
+0,SansText,so expect less than,,,,,,,
+0,SansText,a fair attack and expect        a totally sightreadable        gaster spam attack.,,,,,,
 0,GasterBlaster,1,0,0,191,306,0,0.3,0.1
 0,GasterBlaster,1,0,0,321,166,90,0.3,0.1
 0,GasterBlaster,1,0,0,449,306,180,0.3,0.1
@@ -363,7 +367,7 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0,GasterBlaster,1,0,0,259,166,90,0.4,0.1
 0,GasterBlaster,1,0,0,449,366,180,0.4,0.1
 0,GasterBlaster,1,0,0,379,446,270,0.4,0.1
-0,SansText,can you stop this madness?,,,
+0,SansText,can you stop this            madness?,,,
 0.7,GasterBlaster,2,0,300,139,306,0,0.666,0.5
 0,GasterBlaster,2,640,300,499,306,180,0.666,0.5
 0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
@@ -380,10 +384,10 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
 0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
 2,SansText,if you don't mind...,,,
-0,SansText,im in a need of a toilet break.,,,,
+0,SansText,im in a need of a toilet            break.,,,,
 0,PlayerHeal,-133,1,,,
 0,SansText,heh. i saw that,,,
-0,SansText,looks like someone is helping you,,,,
+0,SansText,looks like someone is            helping you,,,,
 0,SansText,someone i should know?,,,
 0.1,SansSlam,1,,,,,,,
 0.2,BoneStab,1,29,0.4,0.1,,,,
@@ -524,17 +528,17 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0,GasterBlaster,1,0,0,449,366,180,0.4,0.1
 0,GasterBlaster,1,0,0,379,446,270,0.4,0.1
 0,SansText,well well well,,,,
-0,SansText,u probably cheated to get here,,,
+0,SansText,u probably cheated to          get here,,,
 0,SansText,well...,,,
-0,SansText,it looks like your masochism...,,,
+0,SansText,it looks like your           masochism...,,,
 0,SansText,is even worse than I thought.,,,
 0,SansText,but you do realise.,,,
 0,SansText,you cant kill me.,,,
-0,SansText,i know that other simulator,,,
-0,SansText,you dont get to kill us in sims,,,
+0,SansText,i know that other          simulator,,,
+0,SansText,you dont get to kill            us in sims,,,
 0,SansText,so mr obese/rotund evils...,,,
 0,SansText,time to die.,,,
-0,SansText,also got to throw in something,,,
+0,SansText,also got to throw in           something,,,
 0,SansText,die...,,,
 0,SansText,evil they/them frisk!,,,
 0,DamagePlayer,-999,0,,,,,,,
@@ -828,7 +832,7 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0,BoneStab,0,35,0,6.1,,,,
 0,BoneStab,3,35,0,6.1,,,,
 0,SansText,fun fact!,,,,,,
-0,SansText,this is line 972...,,,,,,
+0,SansText,this is line 833...,,,,,,
 0,SansText,how i know that?,,,,,,
 0,SansText,wouldnt you like to know.,,,,,,
 0.7,BoneV,190,336,-3000,0,280,1
